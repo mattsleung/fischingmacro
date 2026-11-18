@@ -1,0 +1,4 @@
+# Read-only diagnostics: no mouse, keyboard, or network client dependencies.
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+mss>=9,<11
